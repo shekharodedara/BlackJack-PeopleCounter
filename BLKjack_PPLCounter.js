@@ -27,6 +27,7 @@ function reset(){
     sum = 0
     card = []
     hasBlackJack = false
+    isAlive = false
     msg.textContent = " WANT TO PLAY A ROUND? "
     total.textContent = "SUM: "
     cards.textContent = "CARDS: "
